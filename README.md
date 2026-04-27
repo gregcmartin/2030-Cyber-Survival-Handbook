@@ -2,6 +2,10 @@
 
 ## The Cyber Survival Handbook
 
+<p align="center">
+  <img src="assets/cover.png" alt="Cybersecurity 2030: The Cyber Survival Handbook book cover" width="560">
+</p>
+
 *A short, fictional survival guide from 2030 for people who want to stay human, solvent, and hard to ruin in the age of autonomous cyber attacks.*
 
 ---
@@ -45,4 +49,3 @@ The new internet punishes unnecessary exposure.
 The goal is not to become invisible. The goal is to become expensive to attack, hard to impersonate, slow to drain, and resilient when systems fail.
 
 Start before the bots score you.
-
