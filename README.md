@@ -1,6 +1,4 @@
-# Cybersecurity 2030
-
-## The Cyber Survival Handbook
+## The 2030 Cyber Survival Handbook
 
 <p align="center">
   <img src="assets/cover.png" alt="Cybersecurity 2030: The Cyber Survival Handbook book cover" width="560">
